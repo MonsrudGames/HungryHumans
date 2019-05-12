@@ -1,0 +1,12 @@
+Humans:
+    1 year for humans is 15 secounds.
+    this will do so a human will be at age 60 after 15 minutes of living.
+    humans will die at an random age. this could be from 60 to 99. lower chance of higher age.
+    humans can also die of starvation and from thirst, attacked / poisend, murdered or killed by animal(s).
+
+Jobs:
+    humans will be assigned a job when reaching age 15. this will say about after 3.75 minutes of living.
+    jobs can be everything from being a guard, farmer, shopkeeper or even an outlaw.
+    if a human becomes an outlaw the population will be the same but there will be 1 less working to improve the place
+    this person will steal and will ruin the village. its good to have guards to catch these outlaws before they make the city angry at you.
+    
