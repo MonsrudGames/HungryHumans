@@ -7,5 +7,13 @@ public class Job : MonoBehaviour
     public GameObject Object;
     public string JobTitle;
     public string JobDetails;
-    public int ItemId;
+    public int JobId;
+    public string TypeOfJob;
+    public Vector3 WorkPos;
+    public GameObject WorkPosObj;
+
+    void Awake()
+    {
+        WorkPos = WorkPosObj.transform.position;
+    }
 }

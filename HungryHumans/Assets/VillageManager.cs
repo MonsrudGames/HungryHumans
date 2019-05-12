@@ -7,8 +7,7 @@ public class VillageManager : MonoBehaviour
     public List<Human> Villagers;
     public List<Job> jobs;
 
-    void Update()
-    {
-
-    }
+    public GameObject StorageObject;
+    public GameObject StorageTargetObj;
+    public float WoodStorage, StoneStorage, MetalStorage;
 }
