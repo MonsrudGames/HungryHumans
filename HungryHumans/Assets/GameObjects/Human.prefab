@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 1750924922}
   m_Layer: 0
   m_Name: Human
-  m_TagString: Untagged
+  m_TagString: Human
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -105,11 +105,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: HumanRigged
       objectReference: {fileID: 0}
-    - target: {fileID: -7780734103960978560, guid: a6d4c3bc7381e284391f35a344a33a82,
-        type: 3}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: a6d4c3bc7381e284391f35a344a33a82,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -165,6 +160,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7780734103960978560, guid: a6d4c3bc7381e284391f35a344a33a82,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7919dae4451958c499106d73c6690644, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a6d4c3bc7381e284391f35a344a33a82, type: 3}
 --- !u!4 &2621601835143897656 stripped
